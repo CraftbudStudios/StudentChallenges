@@ -7,6 +7,6 @@ StudentChallenges is an independent initiative by the alumni of CS50, welcoming 
 - **Student-Crafted Problem Sets:** Dive into challenges created by your fellow students to enhance your problem-solving skills.
 - **Student-Crafted Capture The Flag Challenges:** Test your cybersecurity skills with challenges crafted by students.
 - **Student-Initiated Hackathons:** Join hackathons initiated by students, fostering creativity and innovation.
-- **And more...:** Explore a variety of student-led activities, from coding projects to collaborative problem-solving.
+- **And more...:** Explore a variety of student-led activities, offering diverse learning experiences and collaborative endeavors.
 
 Join us on this collaborative learning journey where students shape the challenges and drive the entire learning experience!
